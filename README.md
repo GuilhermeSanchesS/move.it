@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/GuilhermeSanchesS/">
-    <img src="https://i.giphy.com/media/dWesBcTLavkZuG35MI/giphy.webp"  alt="Dev Web" />
+    <img src="https://raw.githubusercontent.com/GuilhermeSanchesS/move.it/337fd91a1de6af8ae3c111d3a76202e473138373/public/logo.svg"  alt="Logo Move.it" />
   </a>
 </p>
 
@@ -9,9 +9,8 @@
 <p align="center">Projeto realizado durante a aulas Next Level Week #4 by Rocketseat - Trilha React</p>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=next&message=10.0.7&color=0000000&style=flat-square&logo=next"/>
-  <img src="https://img.shields.io/static/v1?label=express&message=^4.17.1&color=000000&style=flat-square&logo=express"/>
-  <img src="https://img.shields.io/static/v1?label=nodemon&message=^2.0.7&color=76d04b&style=flat-square&logo=nodemon"/>
+  <img src="https://img.shields.io/static/v1?label=next.js&message=10.0.7&color=000000&style=flat-square&logo=Next.js"/>
+  <img src="https://img.shields.io/static/v1?label=react.js&message=17.0.1&color=000000&style=flat-square&logo=react.js"/>
 </p>
 
 <p align="center">
@@ -53,10 +52,10 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ```bash
 # Clone este repositório.
-$ git clone https://github.com/alexandredev3/moveit-nlw4.git
+$ https://github.com/GuilhermeSanchesS/move.it.git
 
-# Vá para a pasta moveit-nlw4
-$ cd moveit-nlw4
+# Vá para a pasta move.it
+$ cd move.it
 
 # Instale as dependências
 $ npm install 
@@ -65,5 +64,7 @@ $ npm install
 $ npm run dev
 # or
 $ yarn dev
+
+# O app vai está rodando na porta 3000 - acesse <http://localhost:3000>
 ```
 
